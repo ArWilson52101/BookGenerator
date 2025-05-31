@@ -14,5 +14,7 @@ fpdf2
 
 # **setup**
 get an API key from openrouter and replace the api_key in the variable with your key (keep the "Bearer" part in though)
+
 Run the program.
+
 This will generate a title and genre, create a plot outline, write each chapter, then export it to pdf.
